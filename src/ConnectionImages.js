@@ -10,6 +10,6 @@ return <div style={{display:"flex",flexFlow:"row wrap"}}>
                 <Cart path={'girl-3.jpg'} name={'Scott Ayres'} description={'Resource Person'}/>
                 <Cart path={'boy-2.png'} name={'Scott Ayres'} description={'Resource Person'}/>
                 <Cart path={'girl-1.jpg'} name={'Scott Ayres'} description={'Resource Person'}/>
-         </div>
+         </div>   
 }
 export default Connections;
