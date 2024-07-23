@@ -3,5 +3,5 @@ import ReactDOM from 'react-dom/client';
 import Connections from "./ConnectionImages.js";
 var rootElement = document.getElementById("root");
 var rootReference = ReactDOM.createRoot(rootElement);
-// rootReference.render(<Rev/>);
+// rootReference.render(<Rev/>); 
 rootReference.render(<Connections/>);
