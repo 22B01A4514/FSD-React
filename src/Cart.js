@@ -5,7 +5,7 @@ function Cart({path,name,description}){
                 <h1 >{name} <span style={{fontWeight:"normal",fontSize:15}}>.2nd</span></h1>
                 <p>{description}</p>
         </center>
-                
+                  
                 <div style={{display:"flex",alignItems:"center",justifyContent:"center"}}>
                     <img src='girl-1.jpg' width={30} height={30} style={{borderRadius:200}}></img>
                     <h4><pre> 23 Connections</pre></h4>
