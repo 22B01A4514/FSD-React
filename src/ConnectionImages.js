@@ -11,5 +11,5 @@ return <div style={{display:"flex",flexFlow:"row wrap"}}>
                 <Cart path={'boy-2.png'} name={'Scott Ayres'} description={'Resource Person'}/>
                 <Cart path={'girl-1.jpg'} name={'Scott Ayres'} description={'Resource Person'}/>
          </div>   
-}
+} 
 export default Connections;
